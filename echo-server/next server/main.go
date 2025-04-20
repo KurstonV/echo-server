@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	maxMessageLength = 1024
+	maxMessageLength  = 1024
 	inactivityTimeout = 30 * time.Second
 )
 
