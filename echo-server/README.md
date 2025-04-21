@@ -1,4 +1,5 @@
 How to run your server?
+main.go is located in the next-server folder due to some issues with codespace
 -The server can be run by entering go run main.go --port=4000
 
 -Then you should see Server listening on :4000
